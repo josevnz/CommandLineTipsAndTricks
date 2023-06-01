@@ -1,5 +1,7 @@
 # A few command line tricks you can learn faster than drinking your early coffee
 
+![](mazinger-z.png)
+
 In this short tutorial I want to share with you a few tricks and tips to deal with some common situations. We will cover this:
 
 * find
