@@ -90,4 +90,5 @@ PRETTY_NAME = Fedora Linux 37 (Workstation Edition)
 
 There is _so much more to explore_. The tips above introduced you to some important concepts, so why not to learn much more about them?
 
+* RTF  [(Read the Fine Manual)](https://www.gnu.org/software/bash/manual/html_node/Arrays.html)
 * Source code for this tutorial can be found [here](https://github.com/josevnz/CommandLineTipsAndTricks).
